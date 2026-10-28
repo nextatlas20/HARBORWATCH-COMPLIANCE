@@ -1,0 +1,6 @@
+sequence,station_id,station_name,activity,limit_mg_l
+1,H01,East Breakwater,ACTIVE,4.50
+2,H02,Marsh Outlet,ACTIVE,3.00
+3,H03,Willow Reach,ACTIVE,1.00
+4,H04,Old Ferry,ACTIVE,2.50
+5,H05,Quarry Drain,INACTIVE,5.00
